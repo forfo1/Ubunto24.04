@@ -1,4 +1,4 @@
-# Ubunto24.04
+# Ubuntu24.04
 
 ![image](https://github.com/user-attachments/assets/9e0b3e77-0775-4133-ad8f-361b92159c17)    
 리인스톨할때 **22.04** 꼭 확인하시긔
