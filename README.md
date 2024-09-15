@@ -1,5 +1,8 @@
 # Ubunto24.04
 
+![image](https://github.com/user-attachments/assets/9e0b3e77-0775-4133-ad8f-361b92159c17)    
+리인스톨할때 **22.04** 꼭 확인하시긔
+
 리인스톨 마친 완전 깨끗한 콘타보로 준비해주세요    
 시스템 업그레이드여서 스크립트불가능. 잘읽고 따라하시긔 할일많아요     
 **같은 칸에 있는건 같이입력, 따로 둔건 따로입력.**
@@ -48,7 +51,9 @@ Run 'do-release-upgrade' to upgrade to it.
 | |__| (_) | .` | | |/ _ \| _ \ (_) |
  \____\___/|_|\_| |_/_/ \_|___/\___/
 ```
-이거 흑인하시고 아래 따라치기
+#### **New release '24.04.1 LTS' available.**
+
+흑인하시고 아래 따라치기
 
 ```
 sudo apt install ubuntu-release-upgrader-core
